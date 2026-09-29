@@ -1,0 +1,17 @@
+# prodotti rigenerabili
+**/media/
+**/media_*/
+**/final/
+**/slides/
+**/qa_*/
+**/out/q_*/
+**/out/*.pdf
+**/out/*.jpg
+**/out/qa*.png
+**/manim/**/*.log
+**/manim/**/done*
+**/figsheet*.png
+__pycache__/
+node_modules/
+.DS_Store
+*.zip
